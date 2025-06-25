@@ -1,0 +1,42 @@
+ body {
+   background-color: black;
+
+ }
+
+ button {
+   background-color: #333333;
+   color: white;
+   border: none;
+   height: 60px;
+   width: 60px;
+   padding: 10px;
+   border-radius: 60%;
+
+
+ }
+
+ .arithmatic-btn {
+   background-color: #fea00a;
+   font-size: 1rem;
+ }
+
+ .screen-board {
+   margin-top: 50px;
+   border-radius: 5px 5px 0px 0px;
+   color: black;
+   font-family: 'Digital-7', monospace;
+   background-color: grey;
+   width: 238px;
+   height: 50px;
+   align-self: center;
+   justify-self: center;
+   text-align: right;
+   padding: 10px;
+   font-size: 1.4rem;
+ }
+
+ div {
+   align-self: center;
+   justify-self: center;
+
+ }
